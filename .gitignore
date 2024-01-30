@@ -1,0 +1,12 @@
+x64
+.vs
+project/objects/*
+!project/objects/Dorugoramon
+project/models
+project/resources
+project/x64
+project/textures/*
+!project/textures/textures
+lab5.sln
+project/glm
+project/__MACOSX
